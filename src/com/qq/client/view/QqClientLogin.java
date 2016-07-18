@@ -26,7 +26,7 @@ public class QqClientLogin extends JFrame {
 	public static void main(String[] args) {
 		QqClientLogin qqClientLogin = new QqClientLogin();
 	}
-	//定义头部组件定义头部组件定义头部组件定义头部组件
+	//定义头部组件
 	JLabel jbll;
 	
 	//定义中间部分
